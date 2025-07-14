@@ -1,6 +1,8 @@
 # Vue HW2
 
 此專案是一個使用 Vue 3 和 Vite 開發的台北市 YouBike 查詢系統。使用者可以查詢場站資訊，並將場站加入收藏列表。
+![perviewImg1](https://github.com/JerryJack121/Vue-HW2/blob/main/docs/imgs/img_1.png?raw=true)
+![perviewImg2](https://github.com/JerryJack121/Vue-HW2/blob/main/docs/imgs/img_2.png?raw=true)
 
 ## 使用方法
 
