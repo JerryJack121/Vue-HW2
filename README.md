@@ -1,5 +1,16 @@
-# Vue 3 + Vite
+# Vue HW2
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+此專案是一個使用 Vue 3 和 Vite 開發的台北市 YouBike 查詢系統。使用者可以查詢場站資訊，並將場站加入收藏列表。
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 使用方法
+
+1. **場站查詢**：
+   - 在查詢欄中輸入場站名稱、區域或地址。
+   - 點擊查詢按鈕以獲取符合條件的場站列表。
+
+2. **查看詳細資料**：
+   - 在場站列表中點擊任意場站以查看詳細資訊，包括場站編號、地址、可借車輛數等。
+
+3. **收藏場站**：
+   - 在場站詳細資料中點擊「加入收藏」按鈕，將場站加入收藏列表。
+   - 可在收藏列表中查看已收藏的場站，並可移除不需要的場站。
